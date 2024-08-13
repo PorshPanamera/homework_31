@@ -1,6 +1,11 @@
-# Getting Started with Create React App
+# my task
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Створити форму за допомогою форми з наступними полями:
+
+ім'я, обов'язкове для заповнення;
+електронна пошта, обов'язкове для заповнення, формат email;
+телефон, обов'язкове до заповнення, тільки цифри та довжина 12.
+Провалідувати всі поля і вивести повідомлення у відповідь
 
 ## Available Scripts
 
